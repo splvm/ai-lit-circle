@@ -17,3 +17,8 @@ Address: 425 Harvard Ave E, Seattle, WA 98102
 ## Format:
 - Seminar presentation
 - Free discussion
+
+## Join us:
+
+- Click [Here](https://join.slack.com/t/splvm/shared_invite/zt-11c7tkyoy-gNOtZWwSZsE2UFOtXBw2Wg ) to join the SPLVM Slack
+- Click [Here](https://splvm.slack.com/archives/C0887B8V7S4) to join the #ai-lit-circle channel 
