@@ -1,6 +1,11 @@
 # AI Lit Circle
 Focuses on books that spark discussions about AI and its impact on the world
 
+## Hosts:
+
+- Mossaka
+- Wen Lin
+
 ## Details:
 
 **Book**: AI Engineering by Chip Huyen
