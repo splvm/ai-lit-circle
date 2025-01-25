@@ -3,6 +3,7 @@ Focuses on books that spark discussions about AI and its impact on the world
 
 ## Announcements:
 
+1/25/2025: **First Online Session**: Online at [Zoom](https://us06web.zoom.us/j/86042938105?pwd=hM9AC8fZDjr6O0Dxm7KF1PLhP9WDVd.1) on 01/25/2025 at 4:30pm - 5:10pm 🕟
 1/16/2025: **First Session**: In-person at 15602 NE 40th St, Redmond, WA, 98052 on 01/24/2025 at 4:30pm 🕟
 
 ## Hosts:
